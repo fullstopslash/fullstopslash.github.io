@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    
+        
+        <url>
+            <loc>https://blog.errsomething.com/categories/</loc>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://blog.errsomething.com/</loc>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://blog.errsomething.com/posts/</loc>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://blog.errsomething.com/tags/</loc>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://blog.errsomething.com/posts/2021-02-11/</loc>
+        </url>
+        
+    
+</urlset>
